@@ -45,7 +45,7 @@ Interpretation of core fields
 - `source_locator` / `curation_source_locator` identify the original table, panel or page.
   `source_file` preserves the local research-archive path; originals remain in that archive.
 - `human_feedback_kind` preserves actual feedback provenance: two signed source-review
-  rows and 40 author-confirmed rows. Other source checking was AI-assisted.
+  rows and 40 author-confirmed rows. The remaining 63 rows have no recorded human feedback.
 
 ## Source dependence and assay context
 

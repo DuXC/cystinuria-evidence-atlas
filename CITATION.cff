@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "Please cite this versioned dataset and its original sources."
 type: dataset
 title: "Cystinuria variant–structure–function evidence atlas"
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-10-08"
-url: "https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.0"
+url: "https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.1"
 repository-code: "https://github.com/DuXC/cystinuria-evidence-atlas"
 license:
   - CC-BY-4.0

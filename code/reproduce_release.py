@@ -1,4 +1,4 @@
-"""Recompute atlas v1.0.0 key results using distributed derived TSVs, standard library only.
+"""Recompute atlas v1.0.1 key results using distributed derived TSVs, standard library only.
 
 Usage: python3 code/reproduce_release.py [unpacked_release_directory]
 This verifies the distributed data and reports counts; it does not recreate the

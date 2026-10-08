@@ -5,7 +5,7 @@ Data and analysis code supporting **Assay and allele context shape the functiona
 Xiancheng Du, Yongkun Zhu, Shuchun Tao, Ming Chen, Chunhui Liu and Chao Sun  
 Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China
 
-**Release:** [v1.0.0](https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.0), 8 October 2026. The variant and structure snapshot is dated 5 October 2026; source curation extends through 8 October 2026.
+**Release:** [v1.0.1](https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.1), 8 October 2026. The variant and structure snapshot is dated 5 October 2026; source curation extends through 8 October 2026.
 
 ## Contents and reuse
 
@@ -34,7 +34,7 @@ This command uses Python's standard library and verifies all 19 table hashes. [P
 
 ## Cite the dataset
 
-Du, X., Zhu, Y., Tao, S., Chen, M., Liu, C., Sun, C. (2026). Cystinuria variant–structure–function evidence atlas (v1.0.0) [Data set and code]. GitHub. https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.0
+Du, X., Zhu, Y., Tao, S., Chen, M., Liu, C., Sun, C. (2026). Cystinuria variant–structure–function evidence atlas (v1.0.1) [Data set and code]. GitHub. https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.1
 
 Machine-readable author names, ORCIDs, date and version are supplied in [CITATION.cff](CITATION.cff). Cite the original experimental sources and reused databases when using their findings.
 
