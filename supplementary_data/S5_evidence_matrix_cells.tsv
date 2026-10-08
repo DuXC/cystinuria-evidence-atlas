@@ -1,0 +1,176 @@
+gene	variant	study_id	domain	cell_code	curated_result_rows	evidence_ids	in_strict_clinvar_set	nucleotide_constraint
+SLC3A1	L89P	Font2001	protein		0		True	
+SLC3A1	L89P	Pineda2004	protein		0		True	
+SLC3A1	L89P	Shigeta2006	protein		0		True	
+SLC3A1	L89P	Bartoccioni2008	protein	Q	1	R2F007	True	
+SLC3A1	L89P	Yan2020	protein		0		True	
+SLC3A1	L89P	He2026	protein		0		True	
+SLC3A1	L89P	Gaildrat2017	RNA		0		True	
+SLC3A1	V183A	Font2001	protein		0		True	
+SLC3A1	V183A	Pineda2004	protein		0		True	
+SLC3A1	V183A	Shigeta2006	protein		0		True	
+SLC3A1	V183A	Bartoccioni2008	protein		0		True	
+SLC3A1	V183A	Yan2020	protein	P	1	F019	True	
+SLC3A1	V183A	He2026	protein		0		True	
+SLC3A1	V183A	Gaildrat2017	RNA		0		True	
+SLC3A1	T216M	Font2001	protein		0		True	
+SLC3A1	T216M	Pineda2004	protein		0		True	
+SLC3A1	T216M	Shigeta2006	protein		0		True	
+SLC3A1	T216M	Bartoccioni2008	protein	Q	1	R2F008	True	
+SLC3A1	T216M	Yan2020	protein	P	1	F020	True	
+SLC3A1	T216M	He2026	protein		0		True	
+SLC3A1	T216M	Gaildrat2017	RNA		0		True	
+SLC3A1	R365W	Font2001	protein		0		True	
+SLC3A1	R365W	Pineda2004	protein	N/Q	3	R2F012;R2F013;R2F014	True	
+SLC3A1	R365W	Shigeta2006	protein		0		True	
+SLC3A1	R365W	Bartoccioni2008	protein	Q	1	R2F009	True	
+SLC3A1	R365W	Yan2020	protein		0		True	
+SLC3A1	R365W	He2026	protein		0		True	
+SLC3A1	R365W	Gaildrat2017	RNA		0		True	
+SLC3A1	M467K	Font2001	protein		0		True	
+SLC3A1	M467K	Pineda2004	protein		0		True	
+SLC3A1	M467K	Shigeta2006	protein		0		True	
+SLC3A1	M467K	Bartoccioni2008	protein	Q	1	R2F010	True	
+SLC3A1	M467K	Yan2020	protein		0		True	
+SLC3A1	M467K	He2026	protein		0		True	
+SLC3A1	M467K	Gaildrat2017	RNA		0		True	
+SLC3A1	M467T	Font2001	protein		0		True	
+SLC3A1	M467T	Pineda2004	protein		0		True	
+SLC3A1	M467T	Shigeta2006	protein		0		True	
+SLC3A1	M467T	Bartoccioni2008	protein	Q	1	R2F011	True	
+SLC3A1	M467T	Yan2020	protein	P	1	F021	True	
+SLC3A1	M467T	He2026	protein	C	1	F008	True	
+SLC3A1	M467T	Gaildrat2017	RNA		0		True	
+SLC7A9	P52L	Font2001	protein		0		False	
+SLC7A9	P52L	Pineda2004	protein		0		False	
+SLC7A9	P52L	Shigeta2006	protein		0		False	
+SLC7A9	P52L	Bartoccioni2008	protein		0		False	
+SLC7A9	P52L	Yan2020	protein	P	1	F022	False	
+SLC7A9	P52L	He2026	protein		0		False	
+SLC7A9	P52L	Gaildrat2017	RNA		0		False	
+SLC7A9	A70V	Font2001	protein	N	1	R2F001	True	
+SLC7A9	A70V	Pineda2004	protein		0		True	
+SLC7A9	A70V	Shigeta2006	protein		0		True	
+SLC7A9	A70V	Bartoccioni2008	protein		0		True	
+SLC7A9	A70V	Yan2020	protein	R	1	F010	True	
+SLC7A9	A70V	He2026	protein	N	1	F001	True	
+SLC7A9	A70V	Gaildrat2017	RNA	S	1	R2F015	True	NM_014270.5:c.209C>T
+SLC7A9	G105R	Font2001	protein	N	1	R2F005	True	
+SLC7A9	G105R	Pineda2004	protein		0		True	
+SLC7A9	G105R	Shigeta2006	protein		0		True	
+SLC7A9	G105R	Bartoccioni2008	protein		0		True	
+SLC7A9	G105R	Yan2020	protein		0		True	
+SLC7A9	G105R	He2026	protein	N	1	F003	True	
+SLC7A9	G105R	Gaildrat2017	RNA		0		True	
+SLC7A9	T123M	Font2001	protein		0		True	
+SLC7A9	T123M	Pineda2004	protein		0		True	
+SLC7A9	T123M	Shigeta2006	protein		0		True	
+SLC7A9	T123M	Bartoccioni2008	protein		0		True	
+SLC7A9	T123M	Yan2020	protein	R	1	F011	True	
+SLC7A9	T123M	He2026	protein		0		True	
+SLC7A9	T123M	Gaildrat2017	RNA		0		True	
+SLC7A9	V142A	Font2001	protein		0		True	
+SLC7A9	V142A	Pineda2004	protein		0		True	
+SLC7A9	V142A	Shigeta2006	protein	Q	1	R4F001	True	
+SLC7A9	V142A	Bartoccioni2008	protein		0		True	
+SLC7A9	V142A	Yan2020	protein		0		True	
+SLC7A9	V142A	He2026	protein		0		True	
+SLC7A9	V142A	Gaildrat2017	RNA		0		True	
+SLC7A9	V170M	Font2001	protein	N	1	R2F002	True	
+SLC7A9	V170M	Pineda2004	protein		0		True	
+SLC7A9	V170M	Shigeta2006	protein		0		True	
+SLC7A9	V170M	Bartoccioni2008	protein		0		True	
+SLC7A9	V170M	Yan2020	protein	R	1	F013	True	
+SLC7A9	V170M	He2026	protein	C	1	F005	True	
+SLC7A9	V170M	Gaildrat2017	RNA		0		True	
+SLC7A9	A182T	Font2001	protein	N	1	R2F003	True	
+SLC7A9	A182T	Pineda2004	protein		0		True	
+SLC7A9	A182T	Shigeta2006	protein		0		True	
+SLC7A9	A182T	Bartoccioni2008	protein		0		True	
+SLC7A9	A182T	Yan2020	protein	R	1	F012	True	
+SLC7A9	A182T	He2026	protein	N	1	F002	True	
+SLC7A9	A182T	Gaildrat2017	RNA		0		True	
+SLC7A9	G195R	Font2001	protein		0		True	
+SLC7A9	G195R	Pineda2004	protein		0		True	
+SLC7A9	G195R	Shigeta2006	protein	Q	1	R4F003	True	
+SLC7A9	G195R	Bartoccioni2008	protein		0		True	
+SLC7A9	G195R	Yan2020	protein		0		True	
+SLC7A9	G195R	He2026	protein		0		True	
+SLC7A9	G195R	Gaildrat2017	RNA		0		True	
+SLC7A9	L223M	Font2001	protein		0		True	
+SLC7A9	L223M	Pineda2004	protein		0		True	
+SLC7A9	L223M	Shigeta2006	protein	Q	1	R4F002	True	
+SLC7A9	L223M	Bartoccioni2008	protein		0		True	
+SLC7A9	L223M	Yan2020	protein		0		True	
+SLC7A9	L223M	He2026	protein		0		True	
+SLC7A9	L223M	Gaildrat2017	RNA		0		True	
+SLC7A9	N227D	Font2001	protein		0		False	
+SLC7A9	N227D	Pineda2004	protein		0		False	
+SLC7A9	N227D	Shigeta2006	protein	Q	1	R4F004	False	
+SLC7A9	N227D	Bartoccioni2008	protein		0		False	
+SLC7A9	N227D	Yan2020	protein		0		False	
+SLC7A9	N227D	He2026	protein		0		False	
+SLC7A9	N227D	Gaildrat2017	RNA		0		False	
+SLC7A9	W230R	Font2001	protein		0		False	
+SLC7A9	W230R	Pineda2004	protein		0		False	
+SLC7A9	W230R	Shigeta2006	protein		0		False	
+SLC7A9	W230R	Bartoccioni2008	protein		0		False	
+SLC7A9	W230R	Yan2020	protein	Q	1	F017	False	
+SLC7A9	W230R	He2026	protein		0		False	
+SLC7A9	W230R	Gaildrat2017	RNA		0		False	
+SLC7A9	G259R	Font2001	protein		0		True	
+SLC7A9	G259R	Pineda2004	protein		0		True	
+SLC7A9	G259R	Shigeta2006	protein		0		True	
+SLC7A9	G259R	Bartoccioni2008	protein		0		True	
+SLC7A9	G259R	Yan2020	protein	P	1	F023	True	
+SLC7A9	G259R	He2026	protein		0		True	
+SLC7A9	G259R	Gaildrat2017	RNA		0		True	
+SLC7A9	R333Q	Font2001	protein		0		True	
+SLC7A9	R333Q	Pineda2004	protein		0		True	
+SLC7A9	R333Q	Shigeta2006	protein	Q	1	R4F005	True	
+SLC7A9	R333Q	Bartoccioni2008	protein		0		True	
+SLC7A9	R333Q	Yan2020	protein		0		True	
+SLC7A9	R333Q	He2026	protein		0		True	
+SLC7A9	R333Q	Gaildrat2017	RNA		0		True	
+SLC7A9	R333W	Font2001	protein	N	1	R2F006	True	
+SLC7A9	R333W	Pineda2004	protein		0		True	
+SLC7A9	R333W	Shigeta2006	protein	Q	1	R4F006	True	
+SLC7A9	R333W	Bartoccioni2008	protein		0		True	
+SLC7A9	R333W	Yan2020	protein	R	1	F014	True	
+SLC7A9	R333W	He2026	protein	N	1	F004	True	
+SLC7A9	R333W	Gaildrat2017	RNA		0		True	
+SLC7A9	A354T	Font2001	protein	N	1	R2F004	True	
+SLC7A9	A354T	Pineda2004	protein		0		True	
+SLC7A9	A354T	Shigeta2006	protein		0		True	
+SLC7A9	A354T	Bartoccioni2008	protein		0		True	
+SLC7A9	A354T	Yan2020	protein	Q	1	F018	True	
+SLC7A9	A354T	He2026	protein	C	1	F006	True	
+SLC7A9	A354T	Gaildrat2017	RNA		0		True	
+SLC7A9	A382T	Font2001	protein		0		False	
+SLC7A9	A382T	Pineda2004	protein		0		False	
+SLC7A9	A382T	Shigeta2006	protein		0		False	
+SLC7A9	A382T	Bartoccioni2008	protein		0		False	
+SLC7A9	A382T	Yan2020	protein	R	1	F015	False	
+SLC7A9	A382T	He2026	protein		0		False	
+SLC7A9	A382T	Gaildrat2017	RNA		0		False	
+SLC7A9	M477L	Font2001	protein		0		True	
+SLC7A9	M477L	Pineda2004	protein		0		True	
+SLC7A9	M477L	Shigeta2006	protein	Q	1	R4F020	True	
+SLC7A9	M477L	Bartoccioni2008	protein		0		True	
+SLC7A9	M477L	Yan2020	protein		0		True	
+SLC7A9	M477L	He2026	protein		0		True	
+SLC7A9	M477L	Gaildrat2017	RNA		0		True	
+SLC7A9	P482L	Font2001	protein		0		True	
+SLC7A9	P482L	Pineda2004	protein		0		True	
+SLC7A9	P482L	Shigeta2006	protein	Q/L	7	R4F007;R4F019;R4F025;R4F035;R4F040;R4F041;R4F042	True	
+SLC7A9	P482L	Bartoccioni2008	protein		0		True	
+SLC7A9	P482L	Yan2020	protein	R	1	F016	True	
+SLC7A9	P482L	He2026	protein	C	1	F007	True	
+SLC7A9	P482L	Gaildrat2017	RNA		0		True	
+SLC7A9	P482S	Font2001	protein		0		True	
+SLC7A9	P482S	Pineda2004	protein		0		True	
+SLC7A9	P482S	Shigeta2006	protein	Q	1	R4F033	True	
+SLC7A9	P482S	Bartoccioni2008	protein		0		True	
+SLC7A9	P482S	Yan2020	protein		0		True	
+SLC7A9	P482S	He2026	protein		0		True	
+SLC7A9	P482S	Gaildrat2017	RNA		0		True	

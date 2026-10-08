@@ -1,0 +1,7 @@
+experimental_family	eligible_protein_result_rows	eligible_transport_result_rows	distinct_protein_substitutions	assay_context	result_representation	doi
+Font2001	6	6	6	Human constructs in HeLa cells; 20 uM cystine	Published rounded percentages; source Table 5	10.1093/hmg/10.4.305
+Pineda2004	3	3	1	Human constructs in HeLa cells; R365W at 33C or 37C culture; uptake measured at 37C	49 +/- 4 percent at 33C culture (SEM, 11 independent experiments); separate qualitative uptake/efflux conditions	10.1042/BJ20030956
+Shigeta2006	15	12	9	Human constructs in COS-7; 100 uM cystine explicit in Figures 2/6b, 48 h after transfection; separate MDCK II and HEK293 localization endpoints	Qualitative uptake, plotted significance thresholds and distinct detection/localization observations	10.1038/sj.ki.5000241
+Bartoccioni2008	5	5	5	Human constructs in HeLa cells; 20 uM cystine, 1 min, 36 h after transfection	Qualitative uptake/biogenesis observations; representative four technical replicas	10.1093/hmg/ddn080
+Yan2020	14	9	14	Purified human complex in proteoliposomes; 5 uM cystine, 1 min, room temperature	Textual group ranges and qualitative transport; separate purification observations	10.1126/sciadv.aay6379
+He2026	8	8	8	Human constructs in HEK293 cells; 200 uM selenocystine, 30 min	Mean +/- SD or strict <5 percent bounds; Table S1, three independent biological replicates	10.1631/jzus.B2500767

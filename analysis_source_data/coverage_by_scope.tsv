@@ -1,0 +1,9 @@
+stratum	group	vcv_denominator	protein_vcv	protein_percent	transport_vcv	transport_percent
+overall	ALL	488	22	4.508196721311475	20	4.098360655737705
+gene	SLC3A1	289	6	2.0761245674740483	5	1.7301038062283738
+gene	SLC7A9	199	16	8.040201005025125	15	7.5376884422110555
+classification	P/LP	59	13	22.033898305084747	12	20.338983050847457
+classification	VUS	383	3	0.783289817232376	2	0.5221932114882507
+classification	Conflict	36	3	8.333333333333334	3	8.333333333333334
+classification	B/LB	8	3	37.5	3	37.5
+classification	Other/unclassified	2	0	0.0	0	0.0

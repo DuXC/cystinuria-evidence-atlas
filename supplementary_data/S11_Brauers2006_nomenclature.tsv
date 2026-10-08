@@ -1,0 +1,8 @@
+source_position	source_alleles	source_exon	experimental_construct_site	current_transcript	current_CDS_base_at_same_number	current_base_in_source_allele_pair	mapping_status	VCV_join	reason
+386	C/T	3	True	NM_014270.5	G	False	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+584	C/T	4	True	NM_014270.5	G	False	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+596	T/C	4	False	NM_014270.5	T	True	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+610	T/C	4	True	NM_014270.5	A	False	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+692	C/T	5	True	NM_014270.5	C	True	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+852	C/A	6	True	NM_014270.5	G	False	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity
+872	C/T	6	True	NM_014270.5	T	True	NOT_NORMALIZED	NOT_ASSIGNED	Source strings lack a validated accession/version correspondence; direct same-number base agreement alone does not establish identity

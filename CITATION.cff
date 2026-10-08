@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Please cite this versioned dataset and its original sources."
+type: dataset
+title: "Cystinuria variant–structure–function evidence atlas"
+version: 1.0.0
+date-released: "2026-10-08"
+url: "https://github.com/DuXC/cystinuria-evidence-atlas/releases/tag/v1.0.0"
+repository-code: "https://github.com/DuXC/cystinuria-evidence-atlas"
+license:
+  - CC-BY-4.0
+  - MIT
+authors:
+  - family-names: "Du"
+    given-names: "Xiancheng"
+    orcid: "https://orcid.org/0009-0000-4374-8818"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+  - family-names: "Zhu"
+    given-names: "Yongkun"
+    orcid: "https://orcid.org/0000-0003-4041-5801"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+  - family-names: "Tao"
+    given-names: "Shuchun"
+    orcid: "https://orcid.org/0009-0001-2467-5526"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+  - family-names: "Chen"
+    given-names: "Ming"
+    orcid: "https://orcid.org/0000-0002-3572-6886"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+  - family-names: "Liu"
+    given-names: "Chunhui"
+    orcid: "https://orcid.org/0000-0003-0231-6271"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+  - family-names: "Sun"
+    given-names: "Chao"
+    orcid: "https://orcid.org/0000-0003-0538-1239"
+    affiliation: "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China"
+keywords:
+  - cystinuria
+  - SLC3A1
+  - SLC7A9
+  - functional evidence
+  - structural bioinformatics

@@ -1,0 +1,43 @@
+# Supplementary Methods
+
+## Source discovery and its scope
+
+The gene/disease PubMed snapshot contained 412 records. The broader Europe PMC retrieval was truncated and was not treated as a complete screening denominator. Finite protein-alias queries were recorded for every member of the original 54-record candidate set. Current-MANE nucleotide queries, with and without the c. prefix, extended through 6 October 2026. Query strings, returned records and candidate–document relationships are retained in the research archive.
+
+Three additional PubMed queries on 7 October 2026 targeted computational work, functional context and 2026 publications. Complete indexed returns contained 28, 24 and 48 records, yielding 90 distinct records including an indexed book chapter. A Crossref query supplied its first 100 relevance-ranked records. These searches informed the selected 21-study comparison (S9). They do not constitute an exhaustive systematic-review census. The archived follow-up ledger contains 37 acquisition or context tasks, which are not equivalent to 37 unique papers.
+
+Candidate-specific protein queries produced 12 candidate–document pairs, one of which remained full-text unresolved. Nucleotide queries produced 33 pairs across 27 documents: eight clinical listings, six other-gene matches, one secondary review, 15 unresolved full-text leads and three retrieved main articles with unresolved exact-allele context. Among 27 structured SCV PubMed citations, nine were inspected in full text and 18 remained at title/abstract depth, including two generic classification guidelines. These counts describe the archived discovery workflow, not study eligibility.
+
+One nucleotide-query match illustrates gene-identity checking: p.Met477Leu (c.1429A>T) appeared in NPHS1 in ESPN abstract EP-146, printed p. 2919, rather than in SLC7A9. The pair was assigned to the other-gene category ([Abstracts of the 54th ESPN Annual Meeting, Ljubljana, Slovenia, 2022](https://doi.org/10.1007/s00467-022-05630-1)).
+
+## Acquisition and curation provenance
+
+Usable sources were retrieved from public repositories, publishers, authorized institutional routes or author-supplied files. Acquisition URL, time, file size and SHA-256 were recorded. Publisher pages, failed retrievals and metadata-only payloads remained separate from readable full text. The data release contains derived tables and source locators; publisher articles remain in the research archive.
+
+The 105-row table records selected results, not every experiment reported by every source. Source-located reconciliation preserves original reported results and adopted scientific amendments. The resulting source-curation layer preserves numeric values, missingness and endpoint scope. Replicate n was not inferred from adjacent experiments, attempted constructs or graphical error bars.
+
+Shigeta (2006) was recovered from an official Japanese government research repository as part of a 20-page scanned reprint bundle. Bundle pages 3–11 correspond to article pages 1198–1206. The parent file and nine-page extraction have linked hashes; source images govern interpretation and OCR serves as a search aid. Source Figures 2 and 6b report 100 µM cystine and measurements 48 h after transfection. The later article does not explicitly restate uptake duration, measurement temperature or biological/technical replication. Its cited Mizoguchi protocol describes 2-min uptake, 10-min preincubation at 37 °C, four wells per plotted point and three transfectant-batch experiments. Those details remain attributed to the protocol paper ([Shigeta et al., 2006](https://doi.org/10.1038/sj.ki.5000241); [Mizoguchi et al., 2001](https://doi.org/10.1046/j.1523-1755.2001.0590051821.x)).
+
+## Eligibility amendment and evidence units
+
+The earlier displayed-atlas rule selected source-clinically-observed substitutions. Source recovery identified designed human substitutions that exactly matched current ClinVar protein changes. A disclosed post hoc amendment admitted these exact protein matches while retaining engineered origin. All previously curated engineered human substitutions were reassessed under the same rule; those earlier series supplied no additional strict-snapshot match. Under the former rule, Shigeta increased protein/transport coverage from 15/13 to 20/18 VCVs. The two engineered-only matches increased these counts to 22/20. The variant snapshot remained fixed.
+
+One result row represents a specific condition or endpoint. Multiple rows can map to one family–substitution cell, and one substitution can map to multiple nucleotide-distinct VCVs. The matrix contains 25 substitutions; the current variant join covers 21 substitutions and 22 VCVs. Clinically observed in a source describes ascertainment rather than clinical pathogenicity. Purification, localization, transport and RNA are separately encoded. Blank numeric fields represent unreported or inapplicable values. Strict upper bounds retain their inequality; group ranges are not individual confidence intervals.
+
+## Complex constructs and contextual studies
+
+Brauers (2006) supplies six established multi-site minigene haplotypes across four construct designs. Paired B2 exon-4 haplotypes were tested in COS7, and paired C exon-5/6 haplotypes in COS7 and HEK. RNA was harvested at 48 h. Successful-assay replicate counts, isoform proportions and P values were not reported. B/B1 lacked the opposite allele/haplotype. Historical nucleotide strings were not normalized by numerical position alone. The B intermediate-transcript exon labels differ between Table 3 and narrative; both are retained in S8. The motif inventory includes an additional c.596T>C entry beyond the experimental-site list. These observations are recorded at construct scope (S7, S8 and S11) ([Brauers et al., 2006](https://doi.org/10.5414/CNP65262)).
+
+The AGT1–rBAT study contains seven SLC7A13 alanine substitutions with wild-type SLC3A1, and wild-type SLC7A9 comparison experiments. Its PDB 8WK6 assembly and kinetic context are separate from the frozen 6LI9 variant analysis. S12 and S13 retain partner identity and caption/method discrepancies. Bhatt's G105R knock-in is at the mouse Slc7a9 locus; its human-serum substudy includes three SLC3A1 exon-5–9 duplication patients and nine controls. These studies inform context but add no isolated human SLC3A1/SLC7A9 single-substitution result under the atlas rule ([Dong et al., 2026](https://doi.org/10.1093/procel/pwaf076); [Bhatt et al., 2026](https://doi.org/10.1016/j.kint.2026.06.050)).
+
+## Descriptive extensions and reuse
+
+The leave-one-family-out analysis recomputes exact protein and transport joins after deleting each family. It describes how many VCVs lose a match; it is not a statistical validation or replication assessment. The current 4/5/6 Å analysis excludes protein-covered records before selecting uncertain/conflicting records by the minimum of the three stored heavy-atom distances. Missing coordinate distances cannot qualify. VCV and residue counts remain separate. S19 provides membership at every threshold so users can recover the nested sets.
+
+The six paired Font/He substitutions retain source-reported numbers, SD or bounds. Font Table 5 does not supply per-variant biological n and dispersion for its rounded percentages. He summaries report three independent transfections with technical triplicates. The R365W numerical summary reports SEM across 11 independent experiments; its representative-figure technical replicas are a different unit. Source-specific error structures are retained in S2 and S16.
+
+The release includes a standard-library reproduction script for coverage, source dependence, threshold membership and numerical source-data consistency. Plotting code creates vector and raster figures from the distributed derived tables. Reproducing original genomic/codon validation or source-image interpretation additionally requires the archived source snapshot and corresponding workflow scripts.
+
+## Reuse examples
+
+To retrieve protein evidence, locate a VCV record in S1 and join its gene and validated amino-acid substitution to S2. Retain experimental_family_id, source_locator and the condition fields. Use S17 to inspect the family-level assay context. For A70V, inspect the nucleotide_constraint field before transferring RNA evidence. For R365W, retain culture and measurement temperatures separately. S19 permits reconstruction of candidate membership at 4, 5 and 6 Å, and S14 identifies coverage lost when each experiment family is omitted. These operations preserve the original numerical representation, including strict upper bounds and source-specific dispersion.

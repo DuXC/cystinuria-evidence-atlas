@@ -1,0 +1,56 @@
+{
+  "title": "Cystinuria variant–structure–function evidence atlas",
+  "upload_type": "dataset",
+  "description": "Versioned derived data and analysis code for the manuscript “Assay and allele context shape the functional evidence map for cystinuria variants”. Includes 488 VCV records, 105 curated result/condition rows, 19 supplementary tables, source locators, six figures and downstream reproduction scripts. Variant and structure snapshot: 5 October 2026; literature curation through 8 October 2026. Reproduction starts from the frozen derived tables.",
+  "creators": [
+    {
+      "name": "Du, Xiancheng",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0009-0000-4374-8818"
+    },
+    {
+      "name": "Zhu, Yongkun",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0000-0003-4041-5801"
+    },
+    {
+      "name": "Tao, Shuchun",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0009-0001-2467-5526"
+    },
+    {
+      "name": "Chen, Ming",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0000-0002-3572-6886"
+    },
+    {
+      "name": "Liu, Chunhui",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0000-0003-0231-6271"
+    },
+    {
+      "name": "Sun, Chao",
+      "affiliation": "Department of Urology, Zhongda Hospital, School of Medicine, Southeast University, Nanjing, China",
+      "orcid": "0000-0003-0538-1239"
+    }
+  ],
+  "publication_date": "2026-10-08",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "cystinuria",
+    "SLC3A1",
+    "SLC7A9",
+    "functional evidence",
+    "structural bioinformatics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/DuXC/cystinuria-evidence-atlas",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Data/documentation: CC BY 4.0 for author-created contributions; code: MIT. Upstream rights retained as specified in UPSTREAM_SOURCES.md."
+}

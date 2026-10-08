@@ -1,0 +1,5 @@
+issue_id	topic	source_A	source_B	treatment	locator
+BRD01	Construct B intermediate transcript	Table 3: ~400 bp contains exons 2,4,5 (exon 3 omitted)	Results narrative: intermediate transcript lacks exon 4	Retain both source statements; intermediate product exon identity unresolved within the source; paired B2/C comparisons unaffected	printed p265 / PDF p4
+BRD02	Scope of exon 3 conclusion	Discussion broadly describes no allele-dependent splicing differences	Opposite c.386 allele/haplotype failed construction for B/B1	Restrict completed negative haplotype comparison to B2 and C; B/B1 provide transcript observations	Results p265 and Discussion p266
+BRD03	Computational versus experimental site inventory	Table 2 includes c.596T>C	Tables 1 and 3 experimental designs list six other sites and do not list c.596	Record c.596T>C only in the computational inventory; do not count it as experimentally contrasted	Tables 1-3, pp263-265
+BRD04	Source nucleotide notation	c.584T/C in Tables 1 and 3	c.584C/T or c.584C>T elsewhere	Retain literal source strings and actual haplotypes; allele-pair ordering does not establish current reference direction	Tables 1-3 and Methods/Results

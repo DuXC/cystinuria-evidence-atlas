@@ -1,0 +1,1717 @@
+[
+  {
+    "key": "Yan2020",
+    "doi": "10.1126/sciadv.aay6379",
+    "title": "Cryo-EM structure of the human heteromeric amino acid transporter b 0,+ AT-rBAT",
+    "journal": "Science Advances",
+    "year": 2020,
+    "volume": "6",
+    "issue": "16",
+    "pages": "eaay6379",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1126%2Fsciadv.aay6379",
+    "metadata_sha256": "281c73c4745d7872fd2352fd11fc3b6be54abced0eb2e252ff7ab76b7aafb6d4",
+    "authors": [
+      {
+        "family": "Yan",
+        "given": "Renhong",
+        "ORCID": "https://orcid.org/0000-0002-7122-6547"
+      },
+      {
+        "family": "Li",
+        "given": "Yaning"
+      },
+      {
+        "family": "Shi",
+        "given": "Yi",
+        "ORCID": "https://orcid.org/0000-0002-6281-8911"
+      },
+      {
+        "family": "Zhou",
+        "given": "Jiayao",
+        "ORCID": "https://orcid.org/0000-0002-7083-2713"
+      },
+      {
+        "family": "Lei",
+        "given": "Jianlin",
+        "ORCID": "https://orcid.org/0000-0002-9384-8742"
+      },
+      {
+        "family": "Huang",
+        "given": "Jing",
+        "ORCID": "https://orcid.org/0000-0001-9639-2907"
+      },
+      {
+        "family": "Zhou",
+        "given": "Qiang",
+        "ORCID": "https://orcid.org/0000-0002-6237-8813"
+      }
+    ]
+  },
+  {
+    "key": "Bartoccioni2008",
+    "doi": "10.1093/hmg/ddn080",
+    "title": "Distinct classes of trafficking rBAT mutants cause the type I cystinuria phenotype",
+    "journal": "Human Molecular Genetics",
+    "year": 2008,
+    "volume": "17",
+    "issue": "12",
+    "pages": "1845-1854",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1093%2Fhmg%2Fddn080",
+    "metadata_sha256": "b2da0da5920df9dc3bb9e11416c905ceedd285b33b82d9f4c4ecdc8892556801",
+    "authors": [
+      {
+        "family": "Bartoccioni",
+        "given": "Paola"
+      },
+      {
+        "family": "Rius",
+        "given": "Mònica"
+      },
+      {
+        "family": "Zorzano",
+        "given": "Antonio"
+      },
+      {
+        "family": "Palacín",
+        "given": "Manuel"
+      },
+      {
+        "family": "Chillarón",
+        "given": "Josep"
+      }
+    ]
+  },
+  {
+    "key": "Gaildrat2017",
+    "doi": "10.1002/mgg3.294",
+    "title": "Clinical and molecular characterization of cystinuria in a French cohort: relevance of assessing large‐scale rearrangements and splicing variants",
+    "journal": "Molecular Genetics & Genomic Medicine",
+    "year": 2017,
+    "volume": "5",
+    "issue": "4",
+    "pages": "373-389",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1002%2Fmgg3.294",
+    "metadata_sha256": "295e2395a2ed04fbc75d86526770433740d9b101d3b91177db40f23bf7443fc3",
+    "authors": [
+      {
+        "family": "Gaildrat",
+        "given": "Pascaline"
+      },
+      {
+        "family": "Lebbah",
+        "given": "Said"
+      },
+      {
+        "family": "Tebani",
+        "given": "Abdellah"
+      },
+      {
+        "family": "Sudrié‐Arnaud",
+        "given": "Bénédicte"
+      },
+      {
+        "family": "Tostivint",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Bollee",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Tubeuf",
+        "given": "Hélène"
+      },
+      {
+        "family": "Charles",
+        "given": "Thomas"
+      },
+      {
+        "family": "Bertholet‐Thomas",
+        "given": "Aurelia"
+      },
+      {
+        "family": "Goldenberg",
+        "given": "Alice"
+      },
+      {
+        "family": "Barbey",
+        "given": "Frederic"
+      },
+      {
+        "family": "Martins",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Saugier‐Veber",
+        "given": "Pascale"
+      },
+      {
+        "family": "Frébourg",
+        "given": "Thierry"
+      },
+      {
+        "family": "Knebelmann",
+        "given": "Bertrand"
+      },
+      {
+        "family": "Bekri",
+        "given": "Soumeya",
+        "ORCID": "https://orcid.org/0000-0001-6184-7270"
+      }
+    ]
+  },
+  {
+    "key": "Martell2017",
+    "doi": "10.1186/s12864-017-3913-1",
+    "title": "Associating mutations causing cystinuria with disease severity with the aim of providing precision medicine",
+    "journal": "BMC Genomics",
+    "year": 2017,
+    "volume": "18",
+    "issue": "S5",
+    "pages": "550",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1186%2Fs12864-017-3913-1",
+    "metadata_sha256": "73b44d728fb30a8b9f151301715c5c7c99c3fa4749890f625023a60c23827da7",
+    "authors": [
+      {
+        "family": "Martell",
+        "given": "Henry J."
+      },
+      {
+        "family": "Wong",
+        "given": "Kathie A."
+      },
+      {
+        "family": "Martin",
+        "given": "Juan F."
+      },
+      {
+        "family": "Kassam",
+        "given": "Ziyan"
+      },
+      {
+        "family": "Thomas",
+        "given": "Kay"
+      },
+      {
+        "family": "Wass",
+        "given": "Mark N."
+      }
+    ]
+  },
+  {
+    "key": "Wong2016",
+    "doi": "10.1016/j.eururo.2015.10.039",
+    "title": "The Role of Protein Modelling in Predicting the Disease Severity of Cystinuria",
+    "journal": "European Urology",
+    "year": 2016,
+    "volume": "69",
+    "issue": "3",
+    "pages": "543-544",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1016%2Fj.eururo.2015.10.039",
+    "metadata_sha256": "921c7b7c61e1bffbc7587a75813e44dd933cc7dfd0bdb63e9ea2f81fa3960166",
+    "authors": [
+      {
+        "family": "Wong",
+        "given": "Kathie Alexina"
+      },
+      {
+        "family": "Wass",
+        "given": "Mark"
+      },
+      {
+        "family": "Thomas",
+        "given": "Kay"
+      }
+    ]
+  },
+  {
+    "key": "Zafar2023",
+    "doi": "10.1016/j.gene.2023.147802",
+    "title": "Molecular identification of missense variants in SLC3A1 gene; an approach leading to computer-aided drug design for cystinuria",
+    "journal": "Gene",
+    "year": 2023,
+    "volume": "888",
+    "issue": "",
+    "pages": "147802",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1016%2Fj.gene.2023.147802",
+    "metadata_sha256": "56fe7229a60338a4498c2e29b973d59138da8e51fe7366606870cd782a00a572",
+    "authors": [
+      {
+        "family": "Zafar",
+        "given": "Rimsha",
+        "ORCID": "https://orcid.org/0000-0002-5052-0755"
+      },
+      {
+        "family": "Awais",
+        "given": "Muhammad",
+        "ORCID": "https://orcid.org/0000-0003-1191-5102"
+      }
+    ]
+  },
+  {
+    "key": "Lee2023",
+    "doi": "10.1007/s00240-023-01466-y",
+    "title": "Interpretation of SLC3A1 and SLC7A9 variants in cystinuria patients: The significance of the PM3 criterion and protein stability",
+    "journal": "Urolithiasis",
+    "year": 2023,
+    "volume": "51",
+    "issue": "1",
+    "pages": "94",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1007%2Fs00240-023-01466-y",
+    "metadata_sha256": "c88b02f7241b0d0ee96b483f4c1326bcd97ec71ef2c429857b7b6fbfe1442fb6",
+    "authors": [
+      {
+        "family": "Lee",
+        "given": "Beomki",
+        "ORCID": "https://orcid.org/0000-0003-3463-2121"
+      },
+      {
+        "family": "Lee",
+        "given": "Soo-Youn",
+        "ORCID": "https://orcid.org/0000-0001-7595-4042"
+      },
+      {
+        "family": "Han",
+        "given": "Deok Hyun",
+        "ORCID": "https://orcid.org/0000-0002-9962-802X"
+      },
+      {
+        "family": "Park",
+        "given": "Hyung-Doo",
+        "ORCID": "https://orcid.org/0000-0003-1798-773X"
+      }
+    ]
+  },
+  {
+    "key": "He2026",
+    "doi": "10.1631/jzus.B2500767",
+    "title": "Selenocystine-based fluorescence assay combined with structural prediction for functional analysis of cystine transporter variants in cystinuria",
+    "journal": "Journal of Zhejiang University-SCIENCE B",
+    "year": 2026,
+    "volume": "27",
+    "issue": "7",
+    "pages": "806-816",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1631%2Fjzus.B2500767",
+    "metadata_sha256": "163410d245e24d22644f1e83823d3cd12f435e4ac57e6c8119e5b20407c4230d",
+    "authors": [
+      {
+        "family": "He",
+        "given": "Xiaobai",
+        "ORCID": "https://orcid.org/0009-0005-9485-5265"
+      },
+      {
+        "family": "Qian",
+        "given": "Xinyi"
+      },
+      {
+        "family": "Zheng",
+        "given": "Xiaoguang"
+      },
+      {
+        "family": "Zhang",
+        "given": "Hong"
+      },
+      {
+        "family": "Shao",
+        "given": "Jinbang"
+      },
+      {
+        "family": "Chen",
+        "given": "Xiaopan"
+      },
+      {
+        "family": "Ruan",
+        "given": "Qi"
+      },
+      {
+        "family": "Lyu",
+        "given": "Jianxin",
+        "ORCID": "https://orcid.org/0000-0003-2343-1666"
+      },
+      {
+        "family": "Yang",
+        "given": "Leixiang",
+        "ORCID": "https://orcid.org/0000-0001-9020-7336"
+      },
+      {
+        "family": "Chen",
+        "given": "Linjie",
+        "ORCID": "https://orcid.org/0009-0007-7431-4490"
+      }
+    ]
+  },
+  {
+    "key": "ClinVar2025",
+    "doi": "10.1093/nar/gkae1090",
+    "title": "ClinVar: updates to support classifications of both germline and somatic variants",
+    "journal": "Nucleic Acids Research",
+    "year": 2025,
+    "volume": "53",
+    "issue": "D1",
+    "pages": "D1313-D1321",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1093%2Fnar%2Fgkae1090",
+    "metadata_sha256": "8392a06662452b5ca5a9c6e4e47573fbbe37b5b7b546511b2a8906056c0a6679",
+    "authors": [
+      {
+        "family": "Landrum",
+        "given": "Melissa J",
+        "ORCID": "https://orcid.org/0000-0003-1914-2749"
+      },
+      {
+        "family": "Chitipiralla",
+        "given": "Shanmuga"
+      },
+      {
+        "family": "Kaur",
+        "given": "Kuljeet"
+      },
+      {
+        "family": "Brown",
+        "given": "Garth"
+      },
+      {
+        "family": "Chen",
+        "given": "Chao"
+      },
+      {
+        "family": "Hart",
+        "given": "Jennifer"
+      },
+      {
+        "family": "Hoffman",
+        "given": "Douglas"
+      },
+      {
+        "family": "Jang",
+        "given": "Wonhee"
+      },
+      {
+        "family": "Liu",
+        "given": "Chunlei"
+      },
+      {
+        "family": "Maddipatla",
+        "given": "Zenith"
+      },
+      {
+        "family": "Maiti",
+        "given": "Rama"
+      },
+      {
+        "family": "Mitchell",
+        "given": "Joseph"
+      },
+      {
+        "family": "Rezaie",
+        "given": "Tayebeh"
+      },
+      {
+        "family": "Riley",
+        "given": "George",
+        "ORCID": "https://orcid.org/0000-0001-5054-4573"
+      },
+      {
+        "family": "Song",
+        "given": "Guangfeng"
+      },
+      {
+        "family": "Yang",
+        "given": "Jinpeng"
+      },
+      {
+        "family": "Ziyabari",
+        "given": "Lora"
+      },
+      {
+        "family": "Russette",
+        "given": "Andrew"
+      },
+      {
+        "family": "Kattman",
+        "given": "Brandi L"
+      }
+    ]
+  },
+  {
+    "key": "UniProt2025",
+    "doi": "10.1093/nar/gkae1010",
+    "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+    "journal": "Nucleic Acids Research",
+    "year": 2025,
+    "volume": "53",
+    "issue": "D1",
+    "pages": "D609-D617",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1093%2Fnar%2Fgkae1010",
+    "metadata_sha256": "4a681d07701885c2e52e04adb4acedd5a411fc48bd67044bd739eb976ed72dda",
+    "authors": [
+      {
+        "name": "The UniProt Consortium"
+      },
+      {
+        "family": "Bateman",
+        "given": "Alex"
+      },
+      {
+        "family": "Martin",
+        "given": "Maria-Jesus"
+      },
+      {
+        "family": "Orchard",
+        "given": "Sandra",
+        "ORCID": "https://orcid.org/0000-0002-8878-3972"
+      },
+      {
+        "family": "Magrane",
+        "given": "Michele"
+      },
+      {
+        "family": "Adesina",
+        "given": "Aduragbemi"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Shadab"
+      },
+      {
+        "family": "Bowler-Barnett",
+        "given": "Emily H"
+      },
+      {
+        "family": "Bye-A-Jee",
+        "given": "Hema"
+      },
+      {
+        "family": "Carpentier",
+        "given": "David"
+      },
+      {
+        "family": "Denny",
+        "given": "Paul"
+      },
+      {
+        "family": "Fan",
+        "given": "Jun"
+      },
+      {
+        "family": "Garmiri",
+        "given": "Penelope"
+      },
+      {
+        "family": "Gonzales",
+        "given": "Leonardo Jose da Costa"
+      },
+      {
+        "family": "Hussein",
+        "given": "Abdulrahman"
+      },
+      {
+        "family": "Ignatchenko",
+        "given": "Alexandr"
+      },
+      {
+        "family": "Insana",
+        "given": "Giuseppe"
+      },
+      {
+        "family": "Ishtiaq",
+        "given": "Rizwan"
+      },
+      {
+        "family": "Joshi",
+        "given": "Vishal"
+      },
+      {
+        "family": "Jyothi",
+        "given": "Dushyanth"
+      },
+      {
+        "family": "Kandasaamy",
+        "given": "Swaathi"
+      },
+      {
+        "family": "Lock",
+        "given": "Antonia"
+      },
+      {
+        "family": "Luciani",
+        "given": "Aurelien"
+      },
+      {
+        "family": "Luo",
+        "given": "Jie"
+      },
+      {
+        "family": "Lussi",
+        "given": "Yvonne"
+      },
+      {
+        "family": "Marin",
+        "given": "Juan Sebastian Martinez"
+      },
+      {
+        "family": "Raposo",
+        "given": "Pedro"
+      },
+      {
+        "family": "Rice",
+        "given": "Daniel L"
+      },
+      {
+        "family": "Santos",
+        "given": "Rafael"
+      },
+      {
+        "family": "Speretta",
+        "given": "Elena"
+      },
+      {
+        "family": "Stephenson",
+        "given": "James"
+      },
+      {
+        "family": "Totoo",
+        "given": "Prabhat"
+      },
+      {
+        "family": "Tyagi",
+        "given": "Nidhi"
+      },
+      {
+        "family": "Urakova",
+        "given": "Nadya"
+      },
+      {
+        "family": "Vasudev",
+        "given": "Preethi"
+      },
+      {
+        "family": "Warner",
+        "given": "Kate"
+      },
+      {
+        "family": "Wijerathne",
+        "given": "Supun"
+      },
+      {
+        "family": "Yu",
+        "given": "Conny Wing-Heng"
+      },
+      {
+        "family": "Zaru",
+        "given": "Rossana"
+      },
+      {
+        "family": "Bridge",
+        "given": "Alan J"
+      },
+      {
+        "family": "Aimo",
+        "given": "Lucila"
+      },
+      {
+        "family": "Argoud-Puy",
+        "given": "Ghislaine"
+      },
+      {
+        "family": "Auchincloss",
+        "given": "Andrea H"
+      },
+      {
+        "family": "Axelsen",
+        "given": "Kristian B"
+      },
+      {
+        "family": "Bansal",
+        "given": "Parit"
+      },
+      {
+        "family": "Baratin",
+        "given": "Delphine"
+      },
+      {
+        "family": "Batista Neto",
+        "given": "Teresa M"
+      },
+      {
+        "family": "Blatter",
+        "given": "Marie-Claude"
+      },
+      {
+        "family": "Bolleman",
+        "given": "Jerven T"
+      },
+      {
+        "family": "Boutet",
+        "given": "Emmanuel"
+      },
+      {
+        "family": "Breuza",
+        "given": "Lionel"
+      },
+      {
+        "family": "Gil",
+        "given": "Blanca Cabrera"
+      },
+      {
+        "family": "Casals-Casas",
+        "given": "Cristina"
+      },
+      {
+        "family": "Echioukh",
+        "given": "Kamal Chikh"
+      },
+      {
+        "family": "Coudert",
+        "given": "Elisabeth"
+      },
+      {
+        "family": "Cuche",
+        "given": "Beatrice"
+      },
+      {
+        "family": "de Castro",
+        "given": "Edouard"
+      },
+      {
+        "family": "Estreicher",
+        "given": "Anne"
+      },
+      {
+        "family": "Famiglietti",
+        "given": "Maria L"
+      },
+      {
+        "family": "Feuermann",
+        "given": "Marc"
+      },
+      {
+        "family": "Gasteiger",
+        "given": "Elisabeth"
+      },
+      {
+        "family": "Gaudet",
+        "given": "Pascale"
+      },
+      {
+        "family": "Gehant",
+        "given": "Sebastien"
+      },
+      {
+        "family": "Gerritsen",
+        "given": "Vivienne"
+      },
+      {
+        "family": "Gos",
+        "given": "Arnaud"
+      },
+      {
+        "family": "Gruaz",
+        "given": "Nadine"
+      },
+      {
+        "family": "Hulo",
+        "given": "Chantal"
+      },
+      {
+        "family": "Hyka-Nouspikel",
+        "given": "Nevila"
+      },
+      {
+        "family": "Jungo",
+        "given": "Florence"
+      },
+      {
+        "family": "Kerhornou",
+        "given": "Arnaud"
+      },
+      {
+        "family": "Mercier",
+        "given": "Philippe Le"
+      },
+      {
+        "family": "Lieberherr",
+        "given": "Damien"
+      },
+      {
+        "family": "Masson",
+        "given": "Patrick"
+      },
+      {
+        "family": "Morgat",
+        "given": "Anne"
+      },
+      {
+        "family": "Paesano",
+        "given": "Salvo"
+      },
+      {
+        "family": "Pedruzzi",
+        "given": "Ivo"
+      },
+      {
+        "family": "Pilbout",
+        "given": "Sandrine"
+      },
+      {
+        "family": "Pourcel",
+        "given": "Lucille"
+      },
+      {
+        "family": "Poux",
+        "given": "Sylvain"
+      },
+      {
+        "family": "Pozzato",
+        "given": "Monica"
+      },
+      {
+        "family": "Pruess",
+        "given": "Manuela"
+      },
+      {
+        "family": "Redaschi",
+        "given": "Nicole"
+      },
+      {
+        "family": "Rivoire",
+        "given": "Catherine"
+      },
+      {
+        "family": "Sigrist",
+        "given": "Christian J A"
+      },
+      {
+        "family": "Sonesson",
+        "given": "Karin"
+      },
+      {
+        "family": "Sundaram",
+        "given": "Shyamala"
+      },
+      {
+        "family": "Sveshnikova",
+        "given": "Anastasia"
+      },
+      {
+        "family": "Wu",
+        "given": "Cathy H"
+      },
+      {
+        "family": "Arighi",
+        "given": "Cecilia N"
+      },
+      {
+        "family": "Chen",
+        "given": "Chuming"
+      },
+      {
+        "family": "Chen",
+        "given": "Yongxing"
+      },
+      {
+        "family": "Huang",
+        "given": "Hongzhan"
+      },
+      {
+        "family": "Laiho",
+        "given": "Kati"
+      },
+      {
+        "family": "Lehvaslaiho",
+        "given": "Minna"
+      },
+      {
+        "family": "McGarvey",
+        "given": "Peter"
+      },
+      {
+        "family": "Natale",
+        "given": "Darren A"
+      },
+      {
+        "family": "Ross",
+        "given": "Karen"
+      },
+      {
+        "family": "Vinayaka",
+        "given": "C R"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuqi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Jian"
+      }
+    ]
+  },
+  {
+    "key": "AlphaMissense2023",
+    "doi": "10.1126/science.adg7492",
+    "title": "Accurate proteome-wide missense variant effect prediction with AlphaMissense",
+    "journal": "Science",
+    "year": 2023,
+    "volume": "381",
+    "issue": "6664",
+    "pages": "eadg7492",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1126%2Fscience.adg7492",
+    "metadata_sha256": "e0c6526477c3130ffebfee68e6577e853551d5c94708424718d5d8056cbeee46",
+    "authors": [
+      {
+        "family": "Cheng",
+        "given": "Jun",
+        "ORCID": "https://orcid.org/0000-0001-5573-9791"
+      },
+      {
+        "family": "Novati",
+        "given": "Guido"
+      },
+      {
+        "family": "Pan",
+        "given": "Joshua"
+      },
+      {
+        "family": "Bycroft",
+        "given": "Clare",
+        "ORCID": "https://orcid.org/0000-0002-1139-0732"
+      },
+      {
+        "family": "Žemgulytė",
+        "given": "Akvilė"
+      },
+      {
+        "family": "Applebaum",
+        "given": "Taylor",
+        "ORCID": "https://orcid.org/0000-0002-6716-8006"
+      },
+      {
+        "family": "Pritzel",
+        "given": "Alexander"
+      },
+      {
+        "family": "Wong",
+        "given": "Lai Hong"
+      },
+      {
+        "family": "Zielinski",
+        "given": "Michal",
+        "ORCID": "https://orcid.org/0000-0001-5758-5167"
+      },
+      {
+        "family": "Sargeant",
+        "given": "Tobias",
+        "ORCID": "https://orcid.org/0000-0002-0909-7182"
+      },
+      {
+        "family": "Schneider",
+        "given": "Rosalia G.",
+        "ORCID": "https://orcid.org/0000-0002-6651-2530"
+      },
+      {
+        "family": "Senior",
+        "given": "Andrew W.",
+        "ORCID": "https://orcid.org/0000-0002-2401-5691"
+      },
+      {
+        "family": "Jumper",
+        "given": "John",
+        "ORCID": "https://orcid.org/0000-0001-6169-6580"
+      },
+      {
+        "family": "Hassabis",
+        "given": "Demis",
+        "ORCID": "https://orcid.org/0000-0003-2812-9917"
+      },
+      {
+        "family": "Kohli",
+        "given": "Pushmeet",
+        "ORCID": "https://orcid.org/0000-0002-7466-7997"
+      },
+      {
+        "family": "Avsec",
+        "given": "Žiga",
+        "ORCID": "https://orcid.org/0000-0002-7790-8936"
+      }
+    ]
+  },
+  {
+    "key": "Font2001",
+    "doi": "10.1093/hmg/10.4.305",
+    "title": "Functional analysis of mutations in SLC7A9, and genotype–phenotype correlation in non-Type I cystinuria",
+    "journal": "Human Molecular Genetics",
+    "year": 2001,
+    "volume": "10",
+    "issue": "4",
+    "pages": "305-316",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1093%2Fhmg%2F10.4.305",
+    "metadata_sha256": "c29b6c45f328f560c77927fb4500c0d70f932ce9cbdf76371318ab2b2bfce340",
+    "authors": [
+      {
+        "family": "Font",
+        "given": "Mariona"
+      },
+      {
+        "family": "Feliubadaló",
+        "given": "Lídia"
+      },
+      {
+        "family": "Estivill",
+        "given": "Xavier"
+      },
+      {
+        "family": "Nunes",
+        "given": "Virginia"
+      },
+      {
+        "family": "Golomb",
+        "given": "Eliahu"
+      },
+      {
+        "family": "Kreiss",
+        "given": "Yitshak"
+      },
+      {
+        "family": "Pras",
+        "given": "Elon"
+      },
+      {
+        "family": "Bisceglia",
+        "given": "Luigi"
+      },
+      {
+        "family": "d’Adamo",
+        "given": "Adamo P."
+      },
+      {
+        "family": "Zelante",
+        "given": "Leopoldo"
+      },
+      {
+        "family": "Gasparini",
+        "given": "Paolo"
+      },
+      {
+        "family": "Bassi",
+        "given": "Maria Teresa"
+      },
+      {
+        "family": "George Jr",
+        "given": "Alfred L."
+      },
+      {
+        "family": "Manzoni",
+        "given": "Marta"
+      },
+      {
+        "family": "Riboni",
+        "given": "Mirko"
+      },
+      {
+        "family": "Ballabio",
+        "given": "Andrea"
+      },
+      {
+        "family": "Borsani",
+        "given": "Giuseppe"
+      },
+      {
+        "family": "Reig",
+        "given": "Núria"
+      },
+      {
+        "family": "Fernández",
+        "given": "Esperanza"
+      },
+      {
+        "family": "Zorzano",
+        "given": "Antonio"
+      },
+      {
+        "family": "Bertran",
+        "given": "Joan"
+      },
+      {
+        "family": "Palacín",
+        "given": "Manuel"
+      }
+    ]
+  },
+  {
+    "key": "Pineda2004",
+    "doi": "10.1042/BJ20030956",
+    "title": "Cystinuria-specific rBAT(R365W) mutation reveals two translocation pathways in the amino acid transporter rBAT-b0,+AT",
+    "journal": "Biochemical Journal",
+    "year": 2004,
+    "volume": "377",
+    "issue": "3",
+    "pages": "665-674",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1042%2FBJ20030956",
+    "metadata_sha256": "9016e596d4377058e89b03389056210804de4d29543c56078a28bb39ec6a2db5",
+    "authors": [
+      {
+        "family": "PINEDA",
+        "given": "Marta"
+      },
+      {
+        "family": "WAGNER",
+        "given": "Carsten A."
+      },
+      {
+        "family": "BRÖER",
+        "given": "Angelika"
+      },
+      {
+        "family": "STEHBERGER",
+        "given": "Paul A."
+      },
+      {
+        "family": "KALTENBACH",
+        "given": "Simone"
+      },
+      {
+        "family": "GELPÍ",
+        "given": "Josep Ll."
+      },
+      {
+        "family": "MARTÍN del RÍO",
+        "given": "Rafael"
+      },
+      {
+        "family": "ZORZANO",
+        "given": "Antonio"
+      },
+      {
+        "family": "PALACÍN",
+        "given": "Manuel"
+      },
+      {
+        "family": "LANG",
+        "given": "Florian"
+      },
+      {
+        "family": "BRÖER",
+        "given": "Stefan"
+      }
+    ]
+  },
+  {
+    "key": "Shigeta2006",
+    "doi": "10.1038/sj.ki.5000241",
+    "title": "A novel missense mutation of SLC7A9 frequent in Japanese cystinuria cases affecting the C-terminus of the transporter",
+    "journal": "Kidney International",
+    "year": 2006,
+    "volume": "69",
+    "issue": "7",
+    "pages": "1198-1206",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1038%2Fsj.ki.5000241",
+    "metadata_sha256": "667d51f551c963d710d20ce700e1e7485d67c5bc9d11244a621af129892c12ba",
+    "authors": [
+      {
+        "family": "Shigeta",
+        "given": "Y."
+      },
+      {
+        "family": "Kanai",
+        "given": "Y."
+      },
+      {
+        "family": "Chairoungdua",
+        "given": "A."
+      },
+      {
+        "family": "Ahmed",
+        "given": "N."
+      },
+      {
+        "family": "Sakamoto",
+        "given": "S."
+      },
+      {
+        "family": "Matsuo",
+        "given": "H."
+      },
+      {
+        "family": "Kim",
+        "given": "D.K."
+      },
+      {
+        "family": "Fujimura",
+        "given": "M."
+      },
+      {
+        "family": "Anzai",
+        "given": "N."
+      },
+      {
+        "family": "Mizoguchi",
+        "given": "K."
+      },
+      {
+        "family": "Ueda",
+        "given": "T."
+      },
+      {
+        "family": "Akakura",
+        "given": "K."
+      },
+      {
+        "family": "Ichikawa",
+        "given": "T."
+      },
+      {
+        "family": "Ito",
+        "given": "H."
+      },
+      {
+        "family": "Endou",
+        "given": "H."
+      }
+    ]
+  },
+  {
+    "key": "Mizoguchi2001",
+    "doi": "10.1046/j.1523-1755.2001.0590051821.x",
+    "title": "Human cystinuria-related transporter: Localization and functional characterization",
+    "journal": "Kidney International",
+    "year": 2001,
+    "volume": "59",
+    "issue": "5",
+    "pages": "1821-1833",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1046%2Fj.1523-1755.2001.0590051821.x",
+    "metadata_sha256": "f9d92e9d2c194246e959e9af5aaaafc62b1d88749b50125b176d63e684effd34",
+    "authors": [
+      {
+        "family": "Mizoguchi",
+        "given": "Ken'Ichi"
+      },
+      {
+        "family": "Cha",
+        "given": "Seok Ho"
+      },
+      {
+        "family": "Chairoungdua",
+        "given": "Arthit"
+      },
+      {
+        "family": "Kim",
+        "given": "Do Kyung"
+      },
+      {
+        "family": "Shigeta",
+        "given": "Yasuhiro"
+      },
+      {
+        "family": "Matsuo",
+        "given": "Hirotaka"
+      },
+      {
+        "family": "Fukushima",
+        "given": "Jun-Ichi"
+      },
+      {
+        "family": "Awa",
+        "given": "Yusuke"
+      },
+      {
+        "family": "Akakura",
+        "given": "Koichiro"
+      },
+      {
+        "family": "Goya",
+        "given": "Tomoyuki"
+      },
+      {
+        "family": "Ito",
+        "given": "Haruo"
+      },
+      {
+        "family": "Endou",
+        "given": "Hitoshi"
+      },
+      {
+        "family": "Kanai",
+        "given": "Yoshikatsu"
+      }
+    ]
+  },
+  {
+    "key": "Mahdavi2018",
+    "doi": "10.1007/s11033-018-4269-6",
+    "title": "In silico analysis of SLC3A1 and SLC7A9 mutations in Iranian patients with Cystinuria",
+    "journal": "Molecular Biology Reports",
+    "year": 2018,
+    "volume": "45",
+    "issue": "5",
+    "pages": "1165-1173",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1007%2Fs11033-018-4269-6",
+    "metadata_sha256": "fe514cd0055c8e8614b02b2ee82394ed7a2c4ecb061781c2929b6c0f62d04fe9",
+    "authors": [
+      {
+        "family": "Mahdavi",
+        "given": "Manijeh"
+      },
+      {
+        "family": "Koulivand",
+        "given": "Leila"
+      },
+      {
+        "family": "Khorrami",
+        "given": "Mehdi"
+      },
+      {
+        "family": "Mirsafaie",
+        "given": "Maryam",
+        "ORCID": "https://orcid.org/0000-0001-8045-3058"
+      },
+      {
+        "family": "Kheirollahi",
+        "given": "Majid",
+        "ORCID": "https://orcid.org/0000-0003-1981-1340"
+      }
+    ]
+  },
+  {
+    "key": "Pandey2021",
+    "doi": "10.1080/07391102.2020.1784792",
+    "title": "Computational analysis identifies druggable mutations in human rBAT mediated Cystinuria",
+    "journal": "Journal of Biomolecular Structure and Dynamics",
+    "year": 2021,
+    "volume": "39",
+    "issue": "14",
+    "pages": "5058-5067",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1080%2F07391102.2020.1784792",
+    "metadata_sha256": "ffc8ec2ac9a850f8715816c455ae008f5f4d358a74d49d1d5952f3a8a7fc7b91",
+    "authors": [
+      {
+        "family": "Pandey",
+        "given": "Bharati"
+      },
+      {
+        "family": "Aarthy",
+        "given": "Murali"
+      },
+      {
+        "family": "Sharma",
+        "given": "Mahima"
+      },
+      {
+        "family": "Singh",
+        "given": "Sanjeev Kumar"
+      },
+      {
+        "family": "Kumar",
+        "given": "Vinay"
+      }
+    ]
+  },
+  {
+    "key": "Brauers2006",
+    "doi": "10.5414/CNP65262",
+    "title": "Functional characterization of SLC7A9 polymorphisms assumed to influence the cystinuria phenotype",
+    "journal": "Clinical Nephrology",
+    "year": 2006,
+    "volume": "65",
+    "issue": "04",
+    "pages": "262-266",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.5414%2FCNP65262",
+    "metadata_sha256": "111a5e140fcb1fa3605b53e0d7d88c660f69e3b4aca23055def3eea998d7fd0f",
+    "authors": [
+      {
+        "family": "Brauers",
+        "given": "E."
+      },
+      {
+        "family": "Schmidt",
+        "given": "C."
+      },
+      {
+        "family": "Zerres",
+        "given": "K."
+      },
+      {
+        "family": "Eggermann",
+        "given": "T."
+      }
+    ]
+  },
+  {
+    "key": "Brnich2019",
+    "doi": "10.1186/s13073-019-0690-2",
+    "title": "Recommendations for application of the functional evidence PS3/BS3 criterion using the ACMG/AMP sequence variant interpretation framework",
+    "journal": "Genome Medicine",
+    "year": 2020,
+    "volume": "12",
+    "issue": "1",
+    "pages": "3",
+    "metadata_source_url": "https://api.crossref.org/works/10.1186%2Fs13073-019-0690-2",
+    "metadata_sha256": "c2d3535c728bd756cb2987fc35682dc7ff0346e7b6ba56087b83d3f2b710dd3e",
+    "authors": [
+      {
+        "family": "Brnich",
+        "given": "Sarah E.",
+        "ORCID": "https://orcid.org/0000-0003-3460-4905"
+      },
+      {
+        "family": "Abou Tayoun",
+        "given": "Ahmad N."
+      },
+      {
+        "family": "Couch",
+        "given": "Fergus J."
+      },
+      {
+        "family": "Cutting",
+        "given": "Garry R."
+      },
+      {
+        "family": "Greenblatt",
+        "given": "Marc S."
+      },
+      {
+        "family": "Heinen",
+        "given": "Christopher D."
+      },
+      {
+        "family": "Kanavy",
+        "given": "Dona M."
+      },
+      {
+        "family": "Luo",
+        "given": "Xi"
+      },
+      {
+        "family": "McNulty",
+        "given": "Shannon M."
+      },
+      {
+        "family": "Starita",
+        "given": "Lea M."
+      },
+      {
+        "family": "Tavtigian",
+        "given": "Sean V."
+      },
+      {
+        "family": "Wright",
+        "given": "Matt W."
+      },
+      {
+        "family": "Harrison",
+        "given": "Steven M."
+      },
+      {
+        "family": "Biesecker",
+        "given": "Leslie G."
+      },
+      {
+        "family": "Berg",
+        "given": "Jonathan S."
+      },
+      {
+        "name": "On behalf of the Clinical Genome Resource Sequence Variant Interpretation Working Group"
+      }
+    ]
+  },
+  {
+    "key": "Wu2026",
+    "doi": "10.1038/s41431-026-02085-y",
+    "title": "How variant discovery redefines genetic prevalence: the case of cystine stone disease",
+    "journal": "European Journal of Human Genetics",
+    "year": 2026,
+    "volume": "34",
+    "issue": "7",
+    "pages": "956-963",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1038%2Fs41431-026-02085-y",
+    "metadata_sha256": "eb20024e0840837c9d13aa5ad69696dd9376763732daadd1698aa19a7507ab9b",
+    "authors": [
+      {
+        "family": "Wu",
+        "given": "Chen-Han Wilfred",
+        "ORCID": "https://orcid.org/0000-0003-4827-9920"
+      },
+      {
+        "family": "Chang",
+        "given": "Joshua"
+      },
+      {
+        "family": "Lovrenert",
+        "given": "Katreya",
+        "ORCID": "https://orcid.org/0000-0002-0358-9581"
+      },
+      {
+        "family": "Bodner",
+        "given": "Donald"
+      },
+      {
+        "family": "Hildebrandt",
+        "given": "Friedhelm",
+        "ORCID": "https://orcid.org/0000-0002-7130-0030"
+      },
+      {
+        "family": "Schumacher",
+        "given": "Fredrick R.",
+        "ORCID": "https://orcid.org/0000-0002-3073-7463"
+      }
+    ]
+  },
+  {
+    "key": "Munch2026",
+    "doi": "10.1172/JCI196277",
+    "title": "Deep biochemical phenotyping reveals prognostic value of rare genetic variants in adult kidney stone disease",
+    "journal": "Journal of Clinical Investigation",
+    "year": 2026,
+    "volume": "136",
+    "issue": "5",
+    "pages": "e196277",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1172%2FJCI196277",
+    "metadata_sha256": "e804128e3c79a2575e612aad0119bc4538a323d6501bb85a1e6a05dcbfa79773",
+    "authors": [
+      {
+        "family": "Münch",
+        "given": "Johannes"
+      },
+      {
+        "family": "Petrovska",
+        "given": "Jana"
+      },
+      {
+        "family": "Figueiro-Silva",
+        "given": "Joana"
+      },
+      {
+        "family": "Rubio-Aliaga",
+        "given": "Isabel"
+      },
+      {
+        "family": "Cabello",
+        "given": "Elena M."
+      },
+      {
+        "family": "Ivanovski",
+        "given": "Ivan"
+      },
+      {
+        "family": "Papik",
+        "given": "Michael"
+      },
+      {
+        "family": "Oneda",
+        "given": "Beatrice"
+      },
+      {
+        "family": "Fuster",
+        "given": "Daniel G."
+      },
+      {
+        "family": "Seeger",
+        "given": "Harald"
+      },
+      {
+        "family": "Ernandez",
+        "given": "Thomas"
+      },
+      {
+        "family": "Buchkremer",
+        "given": "Florian"
+      },
+      {
+        "family": "Wuerzner",
+        "given": "Gregoire"
+      },
+      {
+        "family": "Dhayat",
+        "given": "Nasser A."
+      },
+      {
+        "family": "Ritter",
+        "given": "Alexander"
+      },
+      {
+        "family": "Segerer",
+        "given": "Stephan"
+      },
+      {
+        "family": "Roth",
+        "given": "Beat"
+      },
+      {
+        "family": "Rauch",
+        "given": "Anita"
+      },
+      {
+        "family": "Ferraro",
+        "given": "Pietro Manuel"
+      },
+      {
+        "family": "Bonny",
+        "given": "Olivier"
+      },
+      {
+        "family": "Wagner",
+        "given": "Carsten A."
+      },
+      {
+        "family": "Bachmann-Gagescu",
+        "given": "Ruxandra"
+      }
+    ]
+  },
+  {
+    "key": "Bhatt2026",
+    "doi": "10.1016/j.kint.2026.06.050",
+    "title": "Generation of a novel Slc7a9G105R mutant mouse identifies new biomarkers for cystinuria",
+    "journal": "Kidney International",
+    "year": 2026,
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1016%2Fj.kint.2026.06.050",
+    "metadata_sha256": "8075d4bf48835591df19717c03cfb850f34c6c3a0f63bc489928bffe8143e0b4",
+    "authors": [
+      {
+        "family": "Bhatt",
+        "given": "Nirmal P.",
+        "ORCID": "https://orcid.org/0000-0001-7592-0766"
+      },
+      {
+        "family": "Nguyen",
+        "given": "Theresa T.H."
+      },
+      {
+        "family": "Iacono",
+        "given": "Giulia"
+      },
+      {
+        "family": "Rodriguez",
+        "given": "Gabriel R."
+      },
+      {
+        "family": "Anderson",
+        "given": "Connor R.B."
+      },
+      {
+        "family": "Perry",
+        "given": "Andrew"
+      },
+      {
+        "family": "Barlow",
+        "given": "Christopher K."
+      },
+      {
+        "family": "Anderson",
+        "given": "Dovile"
+      },
+      {
+        "family": "Burgio",
+        "given": "Gaetan"
+      },
+      {
+        "family": "Marsland",
+        "given": "Benjamin J."
+      },
+      {
+        "family": "Jiang",
+        "given": "Simon H.",
+        "ORCID": "https://orcid.org/0000-0002-3973-5114"
+      },
+      {
+        "family": "Deshpande",
+        "given": "Aniruddh V."
+      },
+      {
+        "family": "Starkey",
+        "given": "Malcolm R.",
+        "ORCID": "https://orcid.org/0000-0002-7359-7464"
+      }
+    ]
+  },
+  {
+    "key": "Dong2026",
+    "doi": "10.1093/procel/pwaf076",
+    "title": "Oncogenic role of the SLC7A13-SLC3A1 cystine transporter in human luminal breast cancer and its cryo-EM structure",
+    "journal": "Protein & Cell",
+    "year": 2026,
+    "volume": "17",
+    "issue": "2",
+    "pages": "145-156",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1093%2Fprocel%2Fpwaf076",
+    "metadata_sha256": "7f1d92ab9a0fb90390c65c3d41aa81e0a22dd3b96898def67e0faca060b9edfd",
+    "authors": [
+      {
+        "family": "Dong",
+        "given": "Jing"
+      },
+      {
+        "family": "Shi",
+        "given": "Tianhao"
+      },
+      {
+        "family": "Lin",
+        "given": "Bingbiao"
+      },
+      {
+        "family": "Liu",
+        "given": "Xuetong"
+      },
+      {
+        "family": "Wei",
+        "given": "Waner"
+      },
+      {
+        "family": "Geng",
+        "given": "Zichi"
+      },
+      {
+        "family": "Liu",
+        "given": "Mingcheng"
+      },
+      {
+        "family": "Yan",
+        "given": "Renhong",
+        "ORCID": "https://orcid.org/0000-0002-7122-6547"
+      },
+      {
+        "family": "Dong",
+        "given": "Jin-Tang",
+        "ORCID": "https://orcid.org/0000-0003-2349-5782"
+      }
+    ]
+  },
+  {
+    "key": "ESPN2022",
+    "doi": "10.1007/s00467-022-05630-1",
+    "title": "Abstracts of the 54th ESPN Annual Meeting, Ljubljana, Slovenia",
+    "journal": "Pediatric Nephrology",
+    "year": 2022,
+    "volume": "37",
+    "issue": "11",
+    "pages": "2803-2969",
+    "type": "journal-article",
+    "metadata_source_url": "https://api.crossref.org/works/10.1007%2Fs00467-022-05630-1",
+    "metadata_sha256": "7aa1d5a19047d37f48d24afe59df006c57418bacd35cf21c84fd0ea951bfe0d9",
+    "authors": []
+  }
+]
